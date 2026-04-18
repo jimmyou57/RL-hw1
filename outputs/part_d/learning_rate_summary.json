@@ -1,0 +1,26 @@
+{
+  "baseline_learning_rate_0.0005": {
+    "learning_rate": 0.0005,
+    "solved_at": 811,
+    "final_100_avg_reward": 186.54154114601894,
+    "test_mean_reward": 229.89098222779074,
+    "test_std_reward": 92.0948856499351,
+    "test_success_rate": 0.85
+  },
+  "learning_rate_0.001": {
+    "learning_rate": 0.001,
+    "solved_at": null,
+    "final_100_avg_reward": 194.48408327638646,
+    "test_mean_reward": 146.96849047299142,
+    "test_std_reward": 204.45695823210943,
+    "test_success_rate": 0.65
+  },
+  "learning_rate_0.0001": {
+    "learning_rate": 0.0001,
+    "solved_at": 696,
+    "final_100_avg_reward": 208.70710799444706,
+    "test_mean_reward": 203.11703199905043,
+    "test_std_reward": 77.23838428124436,
+    "test_success_rate": 0.74
+  }
+}

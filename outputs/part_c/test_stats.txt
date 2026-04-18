@@ -1,0 +1,7 @@
+=== Test Performance (No Exploration) ===
+Mean reward  : 229.89
+Std reward   : 92.09
+Min reward   : -381.18
+Max reward   : 312.53
+Mean length  : 317.90
+Success rate : 85.00%

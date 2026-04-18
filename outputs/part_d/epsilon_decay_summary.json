@@ -1,0 +1,26 @@
+{
+  "baseline_epsilon_decay_0.995": {
+    "epsilon_decay": 0.995,
+    "solved_at": 811,
+    "final_100_avg_reward": 186.54154114601894,
+    "test_mean_reward": 229.89098222779074,
+    "test_std_reward": 92.0948856499351,
+    "test_success_rate": 0.85
+  },
+  "epsilon_decay_0.99": {
+    "epsilon_decay": 0.99,
+    "solved_at": 859,
+    "final_100_avg_reward": 195.4727194449514,
+    "test_mean_reward": 215.56068629685163,
+    "test_std_reward": 100.09416743361751,
+    "test_success_rate": 0.8
+  },
+  "epsilon_decay_0.999": {
+    "epsilon_decay": 0.999,
+    "solved_at": null,
+    "final_100_avg_reward": 12.224629809569526,
+    "test_mean_reward": 48.50086885495973,
+    "test_std_reward": 110.7383892024202,
+    "test_success_rate": 0.01
+  }
+}

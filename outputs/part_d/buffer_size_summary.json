@@ -1,0 +1,26 @@
+{
+  "baseline_buffer_size_10000": {
+    "buffer_size": 10000,
+    "solved_at": 811,
+    "final_100_avg_reward": 186.54154114601894,
+    "test_mean_reward": 229.89098222779074,
+    "test_std_reward": 92.0948856499351,
+    "test_success_rate": 0.85
+  },
+  "buffer_size_5000": {
+    "buffer_size": 5000,
+    "solved_at": null,
+    "final_100_avg_reward": 162.33955348586238,
+    "test_mean_reward": 180.9701186435273,
+    "test_std_reward": 109.59962401796773,
+    "test_success_rate": 0.59
+  },
+  "buffer_size_20000": {
+    "buffer_size": 20000,
+    "solved_at": 734,
+    "final_100_avg_reward": 221.5575771484342,
+    "test_mean_reward": 251.5393806650953,
+    "test_std_reward": 57.02231755262885,
+    "test_success_rate": 0.92
+  }
+}

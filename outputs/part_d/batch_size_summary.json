@@ -1,0 +1,26 @@
+{
+  "baseline_batch_size_64": {
+    "batch_size": 64,
+    "solved_at": 811,
+    "final_100_avg_reward": 186.54154114601894,
+    "test_mean_reward": 229.89098222779074,
+    "test_std_reward": 92.0948856499351,
+    "test_success_rate": 0.85
+  },
+  "batch_size_32": {
+    "batch_size": 32,
+    "solved_at": 734,
+    "final_100_avg_reward": 221.6798812845739,
+    "test_mean_reward": 188.0707088335779,
+    "test_std_reward": 113.43990411906262,
+    "test_success_rate": 0.66
+  },
+  "batch_size_128": {
+    "batch_size": 128,
+    "solved_at": 914,
+    "final_100_avg_reward": 263.7804015171268,
+    "test_mean_reward": 244.5417278850052,
+    "test_std_reward": 69.92100751467007,
+    "test_success_rate": 0.87
+  }
+}
